@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Prototypestandalonetvapp" parent="@style/Theme.Leanback" />
+</resources>
