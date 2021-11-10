@@ -2,12 +2,12 @@ package com.billyluisneedham.prototype_standalone_tv_app
 
 object MovieList {
     val MOVIE_CATEGORY = arrayOf(
-        "Category Zero",
-        "Category One",
-        "Category Two",
-        "Category Three",
-        "Category Four",
-        "Category Five"
+        "Hard Workouts",
+        "Easy Workouts",
+        "Stretchy Workouts",
+        "Bendy Workouts",
+        "Heavy Workouts",
+        "Tuna Workouts"
     )
 
     val list: List<Movie> by lazy {
